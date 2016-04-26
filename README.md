@@ -1,7 +1,7 @@
 # wavelets-tsc
 
 
-This repository is to support our paper titled "Time Series Classification with Discrete Wavelet Transformed Data: Insights from an Empirical Study" submitted to SEKE.
+This repository is to support our paper titled ["Time Series Classification with Discrete Wavelet Transformed Data: Insights from an Empirical Study"](http://orbilu.uni.lu/handle/10993/26842) accepted at SEKE 2016.
 
 ## Experiment results
 
